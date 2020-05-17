@@ -1,0 +1,9 @@
+{
+  "watch": [
+    "./webpack.config.js",
+    "./.babelrc",
+    "./package.json"
+  ],
+  "ext": "js",
+  "delay": "500"
+}
